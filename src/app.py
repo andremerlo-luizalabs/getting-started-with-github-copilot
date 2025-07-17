@@ -39,7 +39,7 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    # Esporte
+    # Sports
     "Soccer Team": {
         "description": "Join the school soccer team and compete in local leagues",
         "schedule": "Wednesdays and Fridays, 4:00 PM - 5:30 PM",
@@ -52,7 +52,7 @@ activities = {
         "max_participants": 15,
         "participants": ["ana@mergington.edu", "carlos@mergington.edu"]
     },
-    # Artísticas
+    # Arts
     "Drama Club": {
         "description": "Participate in theater productions and acting workshops",
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
@@ -65,7 +65,7 @@ activities = {
         "max_participants": 14,
         "participants": ["sofia@mergington.edu", "bruno@mergington.edu"]
     },
-    # Intelectuais
+    # Intellectual
     "Math Olympiad": {
         "description": "Prepare for math competitions and solve challenging problems",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
